@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Khang's GitHub stats](./profile/stats.svg)
 
 <!--
